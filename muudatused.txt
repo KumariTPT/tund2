@@ -1,0 +1,2 @@
+studentis võiksid olla näiteks telefoni nr, email
+stgroupis võiksid olla näiteks asukoht
